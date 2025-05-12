@@ -1,0 +1,5 @@
+metrics,base_rag
+mean_correctness_score,2.774193548387097
+mean_relevancy_score,0.7258064516129032
+mean_faithfulness_score,0.22580645161290322
+mean_context_similarity_score,0.6255427441832365
