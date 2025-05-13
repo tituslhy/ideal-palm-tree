@@ -2,6 +2,7 @@ unsloth_compiled_cache/
 unsloth_training_checkpoints/
 .env
 notebooks/pack/
+notebooks/llama.cpp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
