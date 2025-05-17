@@ -2,7 +2,7 @@
 The LLM Finetuning Playground repository.
 
 This GitHub repo is a companion resource to the articles:
-1. [How to Train Your LLM: Teaching Toothless to Bite](Upcoming)
+1. [How to Train Your LLM: Teaching Toothless to Bite](https://medium.com/@tituslhy/how-to-train-your-llm-teaching-toothless-to-bite-8d9f56fe4b2a)
 2. An article on RAFT (upcoming)
 
 <p align="center">
