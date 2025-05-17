@@ -11,6 +11,12 @@ This GitHub repo is a companion resource to the articles:
 
 ## Content
 In our notebooks folder, we discuss how to develop a training dataset and finetune an LLM in different ways - supervised finetuning and retrieval augmented finetuning.
+```
+.
+| - notebooks
+|   - training_dataset_gen.ipynb        <- Codes to generate our training dataset
+|   - finetune_llama32_1bn.ipynb        <- Codes to finetune Llama 3.2 1bn!
+```
 
 ## Setup
 ```
