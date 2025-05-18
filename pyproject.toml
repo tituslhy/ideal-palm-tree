@@ -15,6 +15,7 @@ dependencies = [
     "llama-index",
     "llama-index-embeddings-ollama>=0.6.0",
     "llama-index-llms-ollama",
+    "llama-index-packs-raft-dataset>=0.3.0",
     "ninja>=1.11.1.4",
     "peft>=0.15.2",
     "synthetic-data-kit>=0.0.3",
