@@ -3,6 +3,11 @@ unsloth_training_checkpoints/
 .env
 notebooks/pack/
 notebooks/llama.cpp/
+notebooks/wandb/
+notebooks/llama32_1bn_raft/
+notebooks/llama32_1bn_raft_merged/
+notebooks/llama32_1bn_raft_non_traditional_credentials/
+notebooks/tituslhy/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
