@@ -20,7 +20,9 @@ dependencies = [
     "peft>=0.15.2",
     "synthetic-data-kit>=0.0.3",
     "transformers>=4.51.3",
+    "trl>=0.15.2",
     "unsloth>=2025.4.7",
     "vllm>=0.8.5.post1",
+    "wandb>=0.19.11",
     "xformers>=0.0.29.post2",
 ]
