@@ -12,6 +12,7 @@ notebooks/llama32_1bn_raft_merged_v2/
 notebooks/llama32_1bn_raft_non_traditional_credentials_v2/
 notebooks/_evaluations.json
 notebooks/benchmark.csv
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -14,8 +14,9 @@ In our notebooks folder, we discuss how to develop a training dataset and finetu
 ```
 .
 | - notebooks
-|   - training_dataset_gen.ipynb        <- Codes to generate our training dataset
-|   - finetune_llama32_1bn.ipynb        <- Codes to finetune Llama 3.2 1bn!
+|   - 1a. training_dataset_gen.ipynb        <- Codes to generate our training dataset
+|   - 1b. finetune_llama32_1bn.ipynb        <- Codes to finetune Llama 3.2 1bn!
+|   - 2. llama32_1bn_RAFT.ipynb             <- Codes to finetune Llama 3.2 1bn using the RAFT recipe!
 ```
 
 ## Setup
