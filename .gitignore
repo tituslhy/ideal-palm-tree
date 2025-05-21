@@ -8,6 +8,10 @@ notebooks/llama32_1bn_raft/
 notebooks/llama32_1bn_raft_merged/
 notebooks/llama32_1bn_raft_non_traditional_credentials/
 notebooks/tituslhy/
+notebooks/llama32_1bn_raft_merged_v2/
+notebooks/llama32_1bn_raft_non_traditional_credentials_v2/
+notebooks/_evaluations.json
+notebooks/benchmark.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
