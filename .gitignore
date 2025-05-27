@@ -1,6 +1,10 @@
 unsloth_compiled_cache/
 unsloth_training_checkpoints/
 .env
+tituslhy/
+grpo_llama32_1b/
+grpo_outputs_take7/
+grpo_outputs_take8/
 notebooks/pack/
 notebooks/llama.cpp/
 notebooks/wandb/
@@ -12,7 +16,11 @@ notebooks/llama32_1bn_raft_merged_v2/
 notebooks/llama32_1bn_raft_non_traditional_credentials_v2/
 notebooks/_evaluations.json
 notebooks/benchmark.csv
+notebooks/grpo_outputs/
+notebooks/qwen25_14b_grpo_take1/
+notebooks/_unsloth_temporary_saved_buffers/
 .DS_Store
+wandb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
