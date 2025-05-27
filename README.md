@@ -4,6 +4,7 @@ The LLM Finetuning Playground repository.
 This GitHub repo is a companion resource to the articles:
 1. [How to Train Your LLM: Teaching Toothless to Bite](https://medium.com/@tituslhy/how-to-train-your-llm-teaching-toothless-to-bite-8d9f56fe4b2a)
 2. [How to RAFT your LLM: Retrieval Augmented Finetuning using Unsloth!](https://medium.com/@tituslhy/how-to-raft-your-llm-retrieval-augmented-finetuning-using-unsloth-4c3844a9a6e3)
+3. Upcoming Medium article on GRPO - stay tuned!
 
 <p align="center">
     <img src="./images/training_a_dragon.png">
@@ -17,10 +18,11 @@ In our notebooks folder, we discuss how to develop a training dataset and finetu
 |   - 1a. training_dataset_gen.ipynb        <- Codes to generate our training dataset
 |   - 1b. finetune_llama32_1bn.ipynb        <- Codes to finetune Llama 3.2 1bn!
 |   - 2. llama32_1bn_RAFT.ipynb             <- Codes to finetune Llama 3.2 1bn using the RAFT recipe!
+|   - 3a. llama32_1b_grpo.ipynb             <- Codes to finetune Llama 3.2 1bn using the RAFT recipe!
+|   - 3b. qwen25_14b_grpo.ipynb             <- Codes to finetune Llama 3.2 1bn using the RAFT recipe!
 ```
 
 ## Setup
 ```
 uv sync
 ```
-
