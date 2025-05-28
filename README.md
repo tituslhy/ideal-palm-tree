@@ -19,7 +19,7 @@ In our notebooks folder, we discuss how to develop a training dataset and finetu
 |   - 1b. finetune_llama32_1bn.ipynb        <- Codes to finetune Llama 3.2 1bn!
 |   - 2. llama32_1bn_RAFT.ipynb             <- Codes to finetune Llama 3.2 1bn using the RAFT recipe!
 |   - 3a. llama32_1b_grpo.ipynb             <- Codes to finetune Llama 3.2 1bn using GRPO!
-|   - 3b. qwen25_14b_grpo.ipynb             <- Codes to finetune Llama 3.2 1bn using GRPO!
+|   - 3b. qwen25_14b_grpo.ipynb             <- Codes to finetune Qwen 2.5 14bn using GRPO!
 ```
 
 ## Setup
