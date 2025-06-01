@@ -4,7 +4,7 @@ The LLM Finetuning Playground repository.
 This GitHub repo is a companion resource to the articles:
 1. [How to Train Your LLM: Teaching Toothless to Bite](https://medium.com/@tituslhy/how-to-train-your-llm-teaching-toothless-to-bite-8d9f56fe4b2a)
 2. [How to RAFT your LLM: Retrieval Augmented Finetuning using Unsloth!](https://medium.com/@tituslhy/how-to-raft-your-llm-retrieval-augmented-finetuning-using-unsloth-4c3844a9a6e3)
-3. Upcoming Medium article on GRPO - stay tuned!
+3. [How to train your LLM to reason like DeepSeek: GRPO reinforcement learning using Unsloth!](https://medium.com/mitb-for-all/how-to-train-your-llm-to-reason-grpo-reinforcement-learning-using-unsloth-64af5e82ac3c)
 
 <p align="center">
     <img src="./images/training_a_dragon.png">
